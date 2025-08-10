@@ -1,4 +1,4 @@
-![IMG_8348](https://github.com/user-attachments/assets/c2365716-8dc0-4a2f-b802-3c4d9eb0d10c)
+<img width="1584" height="396" alt="LinkedIn cover - 1" src="https://github.com/user-attachments/assets/79460616-d744-42a6-8ba5-419bc3865457" />
 
 ## 🛠 Tech Stack
 
