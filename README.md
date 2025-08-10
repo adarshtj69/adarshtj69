@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi%2C+I+am+Adarsh+TJ)](https://git.io/typing-svg)
+
+
 <img width="1584" height="396" alt="LinkedIn cover - 1" src="https://github.com/user-attachments/assets/79460616-d744-42a6-8ba5-419bc3865457" />
 
 ## 🛠 Tech Stack
