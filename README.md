@@ -1,6 +1,5 @@
-(![IMG_8348](https://github.com/user-attachments/assets/c2365716-8dc0-4a2f-b802-3c4d9eb0d10c)
-)
-e-name.png)
+![IMG_8348](https://github.com/user-attachments/assets/c2365716-8dc0-4a2f-b802-3c4d9eb0d10c)
+
 ## 🛠 Tech Stack
 
 ### Programming Languages  
