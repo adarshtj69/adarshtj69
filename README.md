@@ -28,7 +28,7 @@
 ---
 
 ## 📈 GitHub Stats  
-![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
+![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=adarshtj69&show_icons=true&theme=radical)  
 
 ---
 
